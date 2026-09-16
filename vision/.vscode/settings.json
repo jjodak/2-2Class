@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+    "python.analysis.extraPaths": [
+        "/opt/homebrew/lib/python3.11/site-packages"
+    ],
+    "python.pyrefly.configPath": "${workspaceFolder}/pyrefly.toml",
+    "code-runner.executorMap": {
+        "python": "/opt/homebrew/opt/python@3.11/bin/python3.11 -u"
+    },
+    "code-runner.runInTerminal": true
+}

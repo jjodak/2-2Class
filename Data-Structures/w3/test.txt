@@ -1,0 +1,7 @@
+data structre
+welcome
+python
+hello
+world
+game
+over
